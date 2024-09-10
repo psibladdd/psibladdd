@@ -1,25 +1,18 @@
-Hi, I’m psibladdd
+So, speaking about myself
 
-Real name Yaroslav Molodtsov (real nigga)
-
-Pomrgite 7-8 ebuchih rusov vs yashers
-
-I am csgo and apex streamer from «Moscow State University of Civil Engineering (National Research University)», MGSU (real nigga's activities)
-
+My name is Dmitrii Shipunov. I'm 18 yo student from MISIS
 
 ![капибара квадрат](https://github.com/psibladdd/psibladdd/assets/151432491/18c7c714-0bcc-40b9-8af4-746e1190a9e8)
 
-So, speaking about myself
-
-My name is Dmitrii Shipunov. I'm 17 yo student from MISIS
 
 LANGUAGES:
 - Russian
 - English
 - c++
 - python
+- JS
 - c# (+winforms framework)
-- language of mat
+- React
 
 Clown, fullstack developer, musician and some kind of idiot
 
