@@ -14,7 +14,7 @@ LANGUAGES:
 - c# (+winforms framework)
 - React
 
-Clown, fullstack developer, musician and some kind of idiot
+Clown, fullstack developer, musician and some kind of idiot;))))))
 
 <img width="300" alt="ph2" src="https://github.com/psibladdd/psibladdd/assets/151432491/c239bc99-1af0-44d1-90ff-11e341215108">
 
